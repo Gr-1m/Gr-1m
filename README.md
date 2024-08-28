@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr-1m)
 
 
-<img align="center" src="https://skillicons.dev/icons?i=C,Github,Go,html,kali,linux,neovim,nginx,vue " />
+<img align="center" src="https://skillicons.dev/icons?i=bash,c,django,github,go,html,kali,linux,neovim,nginx,vue " />
