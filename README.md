@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Linux & Golang & Python & Anything related to network security, as long as I know how
 - 📫 How to reach me: ...
 - 😄 Pronouns: 小明, Gr%1m, Ming
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a Singapore chinese 🇸🇬 🇨🇳
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr-1m)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr-1m)
