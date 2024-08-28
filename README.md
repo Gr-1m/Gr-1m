@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr-1m)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr-1m)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gr-1m&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://skillicons.dev/icons?i=Golang&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=Python&theme=light" />
