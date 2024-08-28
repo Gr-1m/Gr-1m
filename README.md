@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: 小明, Gr%1m, Ming
 - ⚡ Fun fact: ...
+<img align="center" src="https://skillicons.dev/icons?i=Golang&theme=light" />
 -->
 - 🔭 I’m currently working in Singapore
 - 🌱 I’m currently learning "The Application of Golang in Network Security Research"
@@ -26,5 +27,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr-1m)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr-1m)
 
-<img align="center" src="https://skillicons.dev/icons?i=Golang&theme=light" />
-<img align="center" src="https://skillicons.dev/icons?i=Python&theme=light" />
+
+<img align="center" src="https://skillicons.dev/icons?i=C,Github,Go,html,kali,linux,neovim,nginx,vue " />
