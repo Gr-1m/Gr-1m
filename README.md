@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr-1m)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr-1m)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gr-1m&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
